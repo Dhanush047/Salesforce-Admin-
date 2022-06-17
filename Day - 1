@@ -1,0 +1,16 @@
+Salesforce Admin Activities
+
+1.Create Avearge field on Account object which is the average of Amount__c field in opportunity object.
+
+2.Create a sales profile and project profile and create two diffrent record type Sales and Project and asign them.
+
+3.Create a list view in Lead to show the today ,this month .
+
+4.Create a validation rule on Account object Phone No should be 10 digit.
+
+5.Create a email template Name(Account Creation) and inside the add account record link .
+
+6.Write a Workflow rule on Account Object if Annual Revenue is not null then send email alert to customer with Account Creation temaplte.
+
+7.Create a web-to-Lead form and add the Salesforce image in background and give proper alignment of all the field after submit the form it should save in lead object and it should redirect to salesforce
+home page
