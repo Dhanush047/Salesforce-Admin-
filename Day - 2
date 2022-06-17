@@ -1,1 +1,9 @@
+Salesforce Admin Activities 
 
+8.When customer is facing any issue in sales force if they are sending a email to your email id automatically case and task will created .By default task status it will be In progress case origin is
+phone and case priority is High.
+
+9.Write a approval process on Payment object if Payment Amount is greater than 1000 then it should go for approval automatic no need to click on the Submit for Approval button.If approver
+approve the record then payment status become Approved.If they reject then Status become reject and record should get locked .
+
+10. Write a process builder while creation of account contact should create automatic with same account name.
